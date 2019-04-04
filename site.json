@@ -1,0 +1,10 @@
+{
+  "$jason": {
+    "body": {
+      "background": {
+        "type": "html",
+        "url": "https://campus.doqua.es/"
+      }
+    }
+  }
+}
