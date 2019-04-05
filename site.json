@@ -1,10 +1,19 @@
 {
   "$jason": {
-    "body": {
-      "background": {
-        "type": "html",
-        "url": "https://campus.doqua.es/"
-      }
-    }
-  }
+		"head": {
+		  "title": "Campus Doqua",
+		  "description": "Prueba de aplicación",
+		  "icon": "https://campus.doqua.es/pluginfile.php/1/theme_mb2nlchild/logo/1553006744/DoquaCampus.png",
+		  "offline": "true"
+		},
+		"body": {
+		  "background": {
+			  "type": "html",
+			  "url": "https://campus.doqua.es",
+			  "action": {
+				"type": "$default"
+				}
+			}
+		}
+	}
 }
